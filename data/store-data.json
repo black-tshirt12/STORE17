@@ -394,8 +394,7 @@
   "sizes": [
     "M",
     "L",
-    "XL",
-    "S"
+    "XL"
   ],
   "floatingContact": {
     "enabled": true,
