@@ -83,11 +83,13 @@
       ],
       "sizes": [
         "M",
-        "L"
+        "L",
+        "S"
       ],
       "inventory": {
         "Deep Black|M": 9,
-        "Deep Black|L": 5
+        "Deep Black|L": 5,
+        "Deep Black|S": 0
       },
       "visible": true,
       "meta": [
@@ -392,7 +394,8 @@
   "sizes": [
     "M",
     "L",
-    "XL"
+    "XL",
+    "S"
   ],
   "floatingContact": {
     "enabled": true,
