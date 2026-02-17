@@ -89,12 +89,14 @@
         "S",
         "M",
         "L",
+        "XL",
         "XXL"
       ],
       "inventory": {
         "Deep Black|S": 7,
         "Deep Black|M": 9,
         "Deep Black|L": 5,
+        "Deep Black|XL": 0,
         "Deep Black|XXL": 0
       },
       "visible": true,
