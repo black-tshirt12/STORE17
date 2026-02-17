@@ -20,12 +20,14 @@
       "sizes": [
         "M",
         "L",
-        "XL"
+        "XL",
+        "XXL"
       ],
       "inventory": {
         "Deep Black|M": 15,
         "Deep Black|L": 12,
-        "Deep Black|XL": 8
+        "Deep Black|XL": 8,
+        "Deep Black|XXL": 0
       },
       "visible": true,
       "meta": [
@@ -83,11 +85,13 @@
       ],
       "sizes": [
         "M",
-        "L"
+        "L",
+        "XXL"
       ],
       "inventory": {
         "Deep Black|M": 9,
-        "Deep Black|L": 5
+        "Deep Black|L": 5,
+        "Deep Black|XXL": 0
       },
       "visible": true,
       "meta": [
@@ -393,7 +397,7 @@
     "M",
     "L",
     "XL",
-    "S"
+    "XXL"
   ],
   "floatingContact": {
     "enabled": true,
