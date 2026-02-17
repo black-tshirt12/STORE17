@@ -20,14 +20,12 @@
       "sizes": [
         "M",
         "L",
-        "XL",
-        "2XL"
+        "XL"
       ],
       "inventory": {
         "Deep Black|M": 15,
         "Deep Black|L": 12,
-        "Deep Black|XL": 8,
-        "Deep Black|2XL": 0
+        "Deep Black|XL": 8
       },
       "visible": true,
       "meta": [
@@ -54,14 +52,12 @@
       "sizes": [
         "M",
         "L",
-        "XL",
-        "2XL"
+        "XL"
       ],
       "inventory": {
         "Deep Black|M": 8,
         "Deep Black|L": 6,
-        "Deep Black|XL": 4,
-        "Deep Black|2XL": 0
+        "Deep Black|XL": 4
       },
       "visible": true,
       "meta": [
@@ -87,13 +83,11 @@
       ],
       "sizes": [
         "M",
-        "L",
-        "2XL"
+        "L"
       ],
       "inventory": {
         "Deep Black|M": 9,
-        "Deep Black|L": 5,
-        "Deep Black|2XL": 0
+        "Deep Black|L": 5
       },
       "visible": true,
       "meta": [
@@ -129,18 +123,15 @@
       "sizes": [
         "M",
         "L",
-        "XL",
-        "2XL"
+        "XL"
       ],
       "inventory": {
         "أسود|M": 0,
         "أسود|L": 0,
         "أسود|XL": 0,
-        "أسود|2XL": 0,
         "لون|M": 0,
         "لون|L": 0,
-        "لون|XL": 0,
-        "لون|2XL": 0
+        "لون|XL": 0
       },
       "visible": true,
       "meta": []
