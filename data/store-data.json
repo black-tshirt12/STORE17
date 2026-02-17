@@ -83,11 +83,13 @@
       ],
       "sizes": [
         "M",
-        "L"
+        "L",
+        "XL"
       ],
       "inventory": {
         "Deep Black|M": 9,
-        "Deep Black|L": 5
+        "Deep Black|L": 5,
+        "Deep Black|XL": 0
       },
       "visible": true,
       "meta": [
