@@ -18,13 +18,11 @@
         }
       ],
       "sizes": [
-        "S",
         "M",
         "L",
         "XL"
       ],
       "inventory": {
-        "Deep Black|S": 0,
         "Deep Black|M": 15,
         "Deep Black|L": 12,
         "Deep Black|XL": 8
@@ -52,13 +50,11 @@
         }
       ],
       "sizes": [
-        "S",
         "M",
         "L",
         "XL"
       ],
       "inventory": {
-        "Deep Black|S": 0,
         "Deep Black|M": 8,
         "Deep Black|L": 6,
         "Deep Black|XL": 4
@@ -86,18 +82,12 @@
         }
       ],
       "sizes": [
-        "S",
         "M",
-        "L",
-        "XL",
-        "XXL"
+        "L"
       ],
       "inventory": {
-        "Deep Black|S": 0,
         "Deep Black|M": 9,
-        "Deep Black|L": 5,
-        "Deep Black|XL": 0,
-        "Deep Black|XXL": 0
+        "Deep Black|L": 5
       },
       "visible": true,
       "meta": [
@@ -131,23 +121,17 @@
         }
       ],
       "sizes": [
-        "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "inventory": {
-        "أسود|S": 0,
         "أسود|M": 0,
         "أسود|L": 0,
         "أسود|XL": 0,
-        "أسود|XXL": 0,
-        "لون|S": 0,
         "لون|M": 0,
         "لون|L": 0,
-        "لون|XL": 0,
-        "لون|XXL": 0
+        "لون|XL": 0
       },
       "visible": true,
       "meta": []
@@ -408,7 +392,8 @@
   "sizes": [
     "M",
     "L",
-    "XL"
+    "XL",
+    "XXL"
   ],
   "floatingContact": {
     "enabled": true,
